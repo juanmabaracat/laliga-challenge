@@ -1,0 +1,21 @@
+Position, Team, Points
+1, Real Madrid, 15
+2, FC Barcelona, 13
+3, Girona FC, 13
+4, Athletic Club, 10
+5, Valencia CF, 9
+6, Rayo Vallecano, 9
+7, Atlético de Madrid, 7
+8, Cádiz CF, 7
+9, Getafe CF, 7
+10, Real Betis, 7
+11, Real Sociedad, 6
+12, CA Osasuna, 6
+13, Villarreal CF, 6
+14, Deportivo Alavés, 6
+15, RCD Mallorca, 5
+16, RC Celta, 4
+17, Sevilla FC, 3
+18, Granada CF, 3
+19, UD Las Palmas, 2
+20, UD Almería, 1
